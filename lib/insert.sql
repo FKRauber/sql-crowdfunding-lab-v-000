@@ -62,4 +62,5 @@ INSERT INTO users (name) VALUES
     (pledge1),
     (pledge1),
     (pledge1),
+    (pledge1),
     (pledge1);
