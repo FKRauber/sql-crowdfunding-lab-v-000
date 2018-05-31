@@ -32,7 +32,7 @@ INSERT INTO users (name, age) VALUES
   (user19),
   (user20);
 
-  INSERT INTO pledges (name) VALUES
+  INSERT INTO pledges (amount) VALUES
     (pledge1),
     (pledge1),
     (pledge1),
