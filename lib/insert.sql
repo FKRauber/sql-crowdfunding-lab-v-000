@@ -10,7 +10,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
   (project9),
   (project10);
 
-INSERT INTO users (name) VALUES
+INSERT INTO users (name, age) VALUES
   (user1),
   (user2),
   (user3),
